@@ -1,0 +1,20 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592430559898,1579,q96,200,OK,Thread Group 1-1,text,true,,16,0,1,1,null,1417,0,584
+1592430561477,1655,q7,200,OK,Thread Group 1-1,text,true,,8993,0,1,1,null,1495,0,0
+1592430563132,1806,q91,200,OK,Thread Group 1-1,text,true,,3460,0,1,1,null,1700,0,0
+1592430564938,1206,q43,200,OK,Thread Group 1-1,text,true,,16463,0,1,1,null,1000,0,0
+1592430566145,1173,q62,200,OK,Thread Group 1-1,text,true,,5375,0,1,1,null,1011,0,0
+1592430567318,13733,q81,200,OK,Thread Group 1-1,text,true,,13477,0,1,1,null,13528,0,0
+1592430581051,3015,q47,200,OK,Thread Group 1-1,text,true,,12372,0,1,1,null,2907,0,0
+1592430584066,1402,q3,200,OK,Thread Group 1-1,text,true,,5121,0,1,1,null,1247,0,0
+1592430585468,39002,q51,200,OK,Thread Group 1-1,text,true,,7152,0,1,1,null,38837,0,0
+1592430624470,1882,q31,200,OK,Thread Group 1-1,text,true,,29532,0,1,1,null,1720,0,0
+1592430626352,2209,q89,200,OK,Thread Group 1-1,text,true,,9153,0,1,1,null,2103,0,0
+1592430628561,8253,q52,200,OK,Thread Group 1-1,text,true,,4886,0,1,1,null,8097,0,0
+1592430636815,8249,q50,200,OK,Thread Group 1-1,text,true,,9863,0,1,1,null,8142,0,0
+1592430645064,1082,q42,200,OK,Thread Group 1-1,text,true,,486,0,1,1,null,979,0,0
+1592430646146,2481,q57,200,OK,Thread Group 1-1,text,true,,10222,0,1,1,null,2324,0,0
+1592430648627,18930,q30,200,OK,Thread Group 1-1,text,true,,10473,0,1,1,null,18770,0,0
+1592430667557,6727,q55,200,OK,Thread Group 1-1,text,true,,4383,0,1,1,null,6570,0,0
+1592430674284,3725,q2,200,OK,Thread Group 1-1,text,true,,335753,0,1,1,null,2264,0,0
+1592430678009,4125,q99,200,OK,Thread Group 1-1,text,true,,585,0,1,1,null,3971,0,0
