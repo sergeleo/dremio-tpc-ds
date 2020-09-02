@@ -16,7 +16,7 @@ do
         echo 'Processing '$filename;
         if (( $n == 1 ));
         then
-           cat DatasetHeaders/$i'.txt' $filename > $csvfile;
+           cat DatasetHeaders/$i'.txt' > $csvfile;
         fi
         cat $filename >> $csvfile; 
       fi
